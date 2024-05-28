@@ -59,7 +59,7 @@ body, html {
 }
 
 .hero {
-    background-image: url('/images/hero-bg.jpg'); /* Path to your background image */
+    background-image: url('hero-bg.jpg'); /* Path to your background image */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
